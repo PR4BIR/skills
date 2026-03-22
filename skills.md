@@ -6,7 +6,7 @@
 - C++
 - JavaScript
 
-## Backend, Framework & APIs
+## Backend, Frameworks & APIs
 - PyTest
 - Spring Boot
 - RESTful APIs
@@ -20,7 +20,6 @@
 - DNS
 - HTTP/HTTPS
 - Cloud Networking (VPC, Subnets, Security Groups)
-- IAM
 
 ## Cloud & DevOps
 - AWS (EC2, S3, RDS, IAM, VPC, Lambda)
