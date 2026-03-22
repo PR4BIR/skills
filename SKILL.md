@@ -1,3 +1,8 @@
+---
+name: Technical Skills Profile
+description: A comprehensive list of programming, cloud, DevOps, and system design skills.
+---
+
 # Skills
 
 ## Programming & Scripting
